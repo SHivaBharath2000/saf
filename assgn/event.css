@@ -1,0 +1,12 @@
+.boxpart{
+    background-color:whitesmoke;
+    border: black;
+    border: radius 2px;
+   margin: 50px 50px 50px 50px;
+   padding: 50px 50px 50px 50px;
+}
+.head{
+    margin-top:30px;
+    color:black;
+}
+
